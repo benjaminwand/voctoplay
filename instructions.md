@@ -7,3 +7,5 @@ Since perfboards are produced with ‘imperial’ hole distance (2,54 mm), the w
 * solder and connect electric circuits
 * assemble case
 
+Licensed under CC-BY <br>
+https://creativecommons.org/licenses/by/4.0/legalcode
